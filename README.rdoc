@@ -1,6 +1,6 @@
 = xcode-ios
 
-Description goes here.
+This Ruby Gem provides useful Rake tasks around scripting and automating an application's build. This in turns simplifies using Continuous Integration for building, testing and even distributing the application that you are working on.
 
 == Contributing to xcode-ios
  
