@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "xcode-ios"
   gem.homepage = "http://github.com/commandshiftn/xcode-ios"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Provides useful Rake tasks for iOS developmemt"
+  gem.description = "Provides useful Rake tasks for iOS development"
   gem.email = "fred@commandshiftn.com"
   gem.authors = ["Frederic Jean"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
